@@ -9,6 +9,7 @@
     "compression": "^1.7.4",
     "express": "^4.17.1",
     "handlebars": "^4.7.7",
+    "oc-client": "^3.2.12",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
